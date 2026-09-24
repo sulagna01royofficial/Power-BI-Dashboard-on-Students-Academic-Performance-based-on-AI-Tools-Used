@@ -399,7 +399,7 @@ This project is an independent analytics initiative and learning demonstration.
 ## 📧 Contact & Collaboration
 
 For questions or feedback:
-- Email: sulagna1roy@gmail.com
+- Email: sulagna01officialroy@gmail.com
 - GitHub: https://github.com/sulagna01royofficial
 - LinkedIn: www.linkedin.com/in/sulagna01-roy 
 
