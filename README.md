@@ -1,0 +1,2 @@
+# Power-BI-Dashboard-on-Students-Academic-Performance-based-on-AI-Tools-Used
+Power BI dashboard analyzing 8,000 students' academic performance based on AI tools used. Examines Gender, AI Tool Usage Purpose, and Passing Status with interactive visualizations (Area Chart, Treemap, Pie Chart). Includes key measures: Max/Min/Average Score and Standard Deviation. Built with Power BI and Excel. Self project.
